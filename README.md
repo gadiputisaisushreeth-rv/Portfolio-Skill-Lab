@@ -1,6 +1,6 @@
 # Student Portfolio Website
 
-A responsive, minimalist four-page student portfolio built using only **HTML** and **CSS** (no JavaScript). Created as part of the Day-1 Mini Challenge.
+A responsive, minimalist four-page student portfolio built using only **HTML** and **CSS** . 
 
 ## Pages
 
@@ -45,16 +45,6 @@ portfolio/
 
 No installation or build step is needed.
 
-## Customisation
-
-- Replace `photo.jpg` with your own profile photo.
-- Update your name, links, phone number and email in the HTML files.
-- Change the colour scheme in the `:root` block at the top of `style.css`.
-
-## Note
-
-The contact form is for interface practice only. It opens the visitor's email app and does not send or store messages on a server.
-
 ## Technologies Used
 
 - HTML5
@@ -63,6 +53,6 @@ The contact form is for interface practice only. It opens the visitor's email ap
 
 ## Author
 
-**Your Name**
-B.Tech Computer Science, Your College Name
-[GitHub](https://github.com/your-username) | [LinkedIn](https://www.linkedin.com/in/your-username)
+**Gadiputi Sai Sushreeth**
+B.Tech Computer Science, RV COLLEGE OF ENGINEERING
+[GitHub] https://github.com/gadiputisaisushreeth-rv | [LinkedIn] https://www.linkedin.com/in/gadiputi-sai-sushreeth-90a638380
